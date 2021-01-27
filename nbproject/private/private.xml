@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/Master.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/Main.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/MasterReplicaInterface.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/ReplicaLoc.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/MasterServerClientInterface.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/ReplicaInterface.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/MessageNotFoundException.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/ReplicaServer.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/Client.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/FileContent.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/ChunkAck.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/WriteAck.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/ReplicaReplicaInterface.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/ReplicaMasterInterface.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/Configurations.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/MasterInterface.java</file>
+            <file>file:/C:/Users/Toshiba/Documents/NetBeansProjects/rmi/src/rmi/ReplicaServerClientInterface.java</file>
+        </group>
+    </open-files>
+</project-private>
